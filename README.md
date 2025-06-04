@@ -18,7 +18,7 @@ This project demonstrates core concepts of algorithms and data structures using 
 - `styles.css`: Custom styles for the interface.
 
 ## Customization
-You can add your own algorithms, data structures, or problem solutions by editing the `algorithms.js` file.
+You can add your own algorithms, data structures, or problem solutions by editing the `algorithms.js` files.
 
 ---
 
