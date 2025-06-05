@@ -1,0 +1,17 @@
+[
+  {"term": "JavaScript", "value": 95},
+  {"term": "Python", "value": 98},
+  {"term": "Java", "value": 80},
+  {"term": "C++", "value": 70},
+  {"term": "Go", "value": 60},
+  {"term": "Rust", "value": 55},
+  {"term": "HTML", "value": 90},
+  {"term": "CSS", "value": 88},
+  {"term": "SQL", "value": 85},
+  {"term": "TypeScript", "value": 75},
+  {"term": "Kotlin", "value": 50},
+  {"term": "Swift", "value": 52},
+  {"term": "PHP", "value": 65},
+  {"term": "Ruby", "value": 45},
+  {"term": "Scala", "value": 40}
+]
