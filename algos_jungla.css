@@ -53,18 +53,18 @@ body {
   to { opacity: 1; }
 }
 .project {
-  background: rgba(255,255,255,0.93);
+  background: rgba(180,180,190,0.22);
   border-radius: 18px;
   box-shadow: 0 4px 24px #388e3c22;
   margin: 32px auto 24px auto;
   max-width: 900px;
   padding: 32px 24px 18px 24px;
-  color: #222;
+  color: #f7f7f7;
   position: relative;
   z-index: 5;
 }
 .project h2 {
-  color: #1b5e20;
+  color: #e0ffef;
 }
 .search-controls, .sim-controls, .expr-controls {
   display: flex;
@@ -77,8 +77,8 @@ input[type="text"] {
   border-radius: 8px;
   border: 1px solid #388e3c;
   font-size: 1rem;
-  background: #e8f5e9;
-  color: #1b5e20;
+  background: #e0ffef;
+  color: #0b3d0b;
 }
 button {
   background: linear-gradient(90deg, #388e3c 0%, #43a047 100%);
@@ -96,8 +96,8 @@ button:hover {
   transform: scale(1.08);
 }
 pre {
-  background: #e8f5e9;
-  color: #1b5e20;
+  background: #e0ffef;
+  color: #0b3d0b;
   border-radius: 8px;
   padding: 12px;
   font-size: 1rem;
@@ -110,7 +110,7 @@ pre {
   margin-top: 18px;
 }
 .sim-visuals h3 {
-  color: #388e3c;
+  color: #e0ffef;
   margin-bottom: 8px;
 }
 .sim-visuals ul {
@@ -119,8 +119,8 @@ pre {
   min-width: 80px;
 }
 .sim-visuals li {
-  background: #a5d6a7;
-  color: #1b5e20;
+  background: #e0ffef;
+  color: #0b3d0b;
   margin: 4px 0;
   padding: 8px 0;
   border-radius: 6px;
